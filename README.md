@@ -10,7 +10,7 @@
 ---
 
 ## **Project Overview**
-This project is a **professional automation framework** built using **Selenium WebDriver** and **Python**, designed to automate testing of core banking functionalities on the [ParaBank demo website](https://parabank.parasoft.com/).  
+This project is a **professional automation framework** built using **Selenium WebDriver** and **Python**, designed to automate testing of core banking functionalities on the Bank demo website.  
 
 The framework demonstrates **real-world test automation practices**, including:
 - Page Object Model (POM) structure for maintainable and reusable code
@@ -45,7 +45,6 @@ This project is ideal for **interviews, portfolio showcases, and practical learn
 1. **Login Automation**  
    - Valid and invalid login workflows  
    - Error message validation  
-   - Screenshot capture on test failure  
    - Allure logging of steps  
 
 2. **Open New Account**  
@@ -106,7 +105,7 @@ This project is ideal for **interviews, portfolio showcases, and practical learn
 
 ## **Project Structure**
 bank_automation/
--  │── .github/workflows/python-ci.yml # CI/CD workflow
+-  │── .github/workflows/python-ci.yml
 -  │── data/ # Test data files
 -  │ ├── credentials.xlsx
 -  │ └── transfer_data.xlsx
