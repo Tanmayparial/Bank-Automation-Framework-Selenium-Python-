@@ -1,0 +1,8 @@
+selenium
+pytest
+allure-pytest
+openpyxl
+pandas
+webdriver-manager
+pytest-rerunfailures
+pytest-xdist
